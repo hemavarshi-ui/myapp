@@ -15,7 +15,7 @@ function App() {
     <h1> hello </h1> 
 
     <h1 className="text-30xl font-bold underline"> hello world</h1>
-    <button onClick = {()=> setCount (count+1)}> count {count}</button>n
+    <button onClick = {()=> setCount (count+1)}> count {count}</button>
     
     <Sample myName = {myName} myFrom = {myFrom} myRead = {myRead}/>
     </>
