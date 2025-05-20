@@ -5,11 +5,10 @@ import {Sample}from "./component/Sample"
 function App() {
   //const[name,setName] = useState("")
   //console.log(ame);
-  const myName="hema"
+  const myName ="hema"
   const myFrom ="nagappattinam"
   const myRead ="reading book"
   const[count,setCount]=useState(0)
-
   return (
     <>
     <h1> hello </h1> 
